@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate app developer from India</h3>
 
-- 🔭 I’m currently working on **Java FrontEnd Servlets**
+- 🔭 I’m currently working on **Android Developement**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **More about App Development**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
