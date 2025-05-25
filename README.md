@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **my life**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, GIT, GITHUB, SQL**
+- 💬 Ask me about **HTML, CSS, TAILWINDCSS, JAVASCRIPT, REACTJS, GIT, GITHUB, SQL**
 
 - 📫 How to reach me **dhwajdhruvkar@gmail.com**
 
