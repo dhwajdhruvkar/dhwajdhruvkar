@@ -16,7 +16,7 @@
 
 - 🚀 **Full Stack Developer** from **India**, building fast, accessible and production-grade web apps.
 - 🧩 I work across the **MERN stack** and **React + TypeScript**, with a solid foundation in **Java & Spring Boot**.
-- 🔭 Currently building the **Martinrea – Accounts Payable Automation Suite**, a production React 18 + TypeScript SPA.
+- 🔭 Currently building the **Accounts Payable Automation Suite**, a production React 18 + TypeScript SPA.
 - 🌱 Continuously leveling up in **clean architecture, scalable frontends and API design**.
 - 💬 Ask me about **React, TypeScript, JavaScript, Node.js, Tailwind CSS, Java and SQL**.
 - 📫 Reach me at **[dhwajdhruvkar@gmail.com](mailto:dhwajdhruvkar@gmail.com)**.
