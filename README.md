@@ -19,7 +19,7 @@
 - 🔭 Currently building the **Accounts Payable Automation Suite**, a production React 18 + TypeScript SPA.
 - 🌱 Continuously leveling up in **clean architecture, scalable frontends and API design**.
 - 💬 Ask me about **React, TypeScript, JavaScript, Node.js, Tailwind CSS, Java and SQL**.
-- 📫 Reach me at **[dhwajdhruvkar@gmail.com](mailto:dhwajdhruvkar@gmail.com)**.
+- 📫 Reach me at **[dhwajdhruvkar@gmail.com](mailto:dhwajdhruvkar@gmail.com), https://dhwajdhruvkar.vercel.app/**.
 - ⚡ Fun fact: I enjoy turning rough ideas into polished, shipped products.
 
 <!-- ===================== TECH STACK ===================== -->
