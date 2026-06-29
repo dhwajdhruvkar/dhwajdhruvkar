@@ -72,7 +72,7 @@
 
 | Project | Description | Tech |
 | :------ | :---------- | :--- |
-| [**Martinrea – AP Automation**](https://github.com/dhwajdhruvkar/Frontend-Martinrea) | Production-grade SPA for accounts-payable automation — auth, dashboard and invoice processing on a full design system, wired to a NestJS API. | `React 18` `TypeScript` `TanStack Query` `Tailwind` `Axios/JWT` |
+| [**AP Automation**](https://github.com/dhwajdhruvkar/Frontend-Martinrea) | Production-grade SPA for accounts-payable automation — auth, dashboard and invoice processing on a full design system, wired to a NestJS API. | `React 18` `TypeScript` `TanStack Query` `Tailwind` `Axios/JWT` |
 | [**Prescripto**](https://github.com/dhwajdhruvkar/Prescripto) | Full-stack **MERN** doctor-appointment platform with separate patient, admin and API apps, image uploads and auth. | `React` `Node` `Express` `MongoDB` `Cloudinary` |
 | [**React E-Commerce**](https://github.com/dhwajdhruvkar/e-commerce) | Responsive storefront with a product catalog, real-time category filtering and a Context-powered shopping cart. | `React` `Vite` `Tailwind` `React Router` |
 | [**Password Manager**](https://github.com/dhwajdhruvkar/password-manager) | A React app to securely store and manage credentials with a clean, simple UI. | `React` `JavaScript` |
